@@ -1,8 +1,5 @@
 This package features two custom dropdown menu components for ReactJS.
 
-__WARNING:__ Breaking changes take effect from version `1.1.7`. If you are using any of the earlier versions, refer to the [previous README files](https://www.npmjs.com/package/reactjs-dropdown-component?activeTab=explore).
-
-[Online demo](https://dbilgili.github.io/Custom-ReactJS-Dropdown-Components/index.html)
 
 __Single-selection__       |  __Multi-selection__
 :-------------------------:|:-------------------------:
